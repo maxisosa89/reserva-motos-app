@@ -1,0 +1,24 @@
+.noColor {
+    background-color: white;
+}
+
+.redColor {
+    background-color: red;
+}
+
+.greenColor {
+    background-color: green;
+}
+
+.table-responsive {
+    margin-top: 80px;
+}
+
+th {
+    width: 25%;
+}
+
+tr {
+    text-align: center;
+}
+
