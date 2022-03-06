@@ -10,7 +10,7 @@ export default function Readme(){
             <Navbar />
             <div className="container">
                 <h1>Readme</h1>
-                <ul>
+                <ul className="list-unstyled">
                     <li>Contruye una lista que contenga tramos horarios en intervalos de 30 minutos.</li>
                     <li>Que empiece a las 8 am y termine a las 8 pm.</li>
                     <li>La empresa tiene una disponibilidad de 8 motociclistas cada 30 minutos.</li>
